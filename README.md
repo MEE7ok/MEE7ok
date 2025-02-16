@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MEE7ok
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML CSS and java 
+- 🌱 I’m currently learning HTML CSS, Java and Python (mainly python) 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
